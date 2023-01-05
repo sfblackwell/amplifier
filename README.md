@@ -4,7 +4,7 @@ REPOSITORY UNDER CONSTRUCTION - BE CAREFULL
 
 Pi Pico W based web server controlled Class D amplifier build in an old Turkish Delight box
 
-Built using components from Raspberry Pi, Adafruit purchased from Pimoroni
+Built using components from @RaspberryPi, @Adafruit purchased from @Pimoroni
 
 The code uses CircuitPython version 8 beta 5 for the Pico W 
 
