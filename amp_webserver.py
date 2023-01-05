@@ -1,5 +1,6 @@
 # Base on the code for:
-https://learn.adafruit.com/pico-w-http-server-with-circuitpython/code-the-pico-w-http-server
+#
+# https://learn.adafruit.com/pico-w-http-server-with-circuitpython/code-the-pico-w-http-server
 #
 # SPDX-FileCopyrightText: 2022 Liz Clark for Adafruit Industries
 #
