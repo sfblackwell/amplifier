@@ -8,7 +8,7 @@ Built using components from @RaspberryPi, @Adafruit purchased from @Pimoroni
 
 The code uses CircuitPython version 8 beta 5 for the Pico W 
 
-The code is based on the excellent adafruit example at: 
+The code is based on the excellent adafruit example by Liz Clark at: 
 https://learn.adafruit.com/pico-w-http-server-with-circuitpython/code-the-pico-w-http-server
 
 ![image1](https://user-images.githubusercontent.com/122044826/210847851-474848ef-7fa0-44b6-8eb6-25fa30e4f679.jpeg)
